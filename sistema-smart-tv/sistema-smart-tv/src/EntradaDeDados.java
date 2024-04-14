@@ -28,7 +28,7 @@ public class EntradaDeDados {
         System.out.println("A sua altura é : " + altura + " m.");
         System.out.println("Voce tem " + idade + " anos.");
 
-
+        scanner.close();
         
     }
     

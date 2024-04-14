@@ -27,7 +27,8 @@ public class ContaTerminal {
         System.out.println("Saldo atual : R$ " + saldo);
         System.out.println();
         System.out.println("-------------------------------");
-
+        
+        sc.close();
     }
 
 }
