@@ -1,0 +1,1 @@
+javadoc -encoding utf-8 -docencoding ISO-8859-1 -d docs src/*.java src/com/exemplo/*.java
